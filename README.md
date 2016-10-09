@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160324 "Morphing Wordart"  
+# Everyday One Motion - 20160324  
+
+"Morphing Wordart"  
 
 ![](20160324.gif)  
 
 JavaScript, WebGL, Raymarching  
 
 [Everyday One Motion](http://motions.work/motion/162)  
-[Demo Page](http://fms-cat.github.io/eom_20160324)  
+[Demo Page](http://fms-cat-eom.github.io/20160324)  
 
 ## はじめに  
 
